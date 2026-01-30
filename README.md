@@ -62,7 +62,7 @@ https://localhost:443
 ## Accessing the Site
 
 1. Import the provided `client.pfx` file into your browser or OS certificate store.
-2. When prompted, enter the certificate password.
+2. When prompted, enter the certificate password. `clientpass123`
 3. Navigate to:
 
 ```
